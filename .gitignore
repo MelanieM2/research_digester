@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+research_log.md
+env_setup_and_first_ai_fetcher_automation_guide.md
+research_log.md
+env_setup_and_first_ai_fetcher_automation_guide.md
+session_log_infrastructure_expansion.md
+README_infrastructure.md
+README_research_digester.md
+.env
